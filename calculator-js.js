@@ -111,3 +111,4 @@ deleteButton.addEventListener('click',()=> {
     calculator.delete();
     calculator.updateDisplay();
 })
+const VI=123;
